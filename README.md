@@ -164,6 +164,19 @@ For example, e = 13, φ(n) = 840:
 ```
 So, d = 517.
 
+---
+##  Screenshot References:
+
+output1.png — Whole Code
+
+![Solution Output](output1.png)
+
+output2.png — Zoomed on Output
+
+![Solution Output](output2.png)
+
+--- 
+
 ## 🧠 Key Takeaways
 - Demonstrates complete RSA workflow with integer arithmetic.
 - Reinforces understanding of number theory, modular arithmetic, and key generation.
