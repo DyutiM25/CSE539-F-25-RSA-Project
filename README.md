@@ -16,7 +16,9 @@ This implementation also demonstrates number-theoretic operations like the **Ext
 | File | Description |
 |------|--------------|
 | `rsa.py` | Main Python script implementing RSA key generation, encryption, and decryption. |
-| `README.md` | This documentation file. |
+| `solution.png` | Screenshot showing program + output |
+| `solution2.png` | Screenshot showing zoomed output |
+| `README.md` | Project documentation and usage instructions. |
 
 ---
 
